@@ -39,6 +39,5 @@ Este proyecto está bajo la Licencia MIT. Puedes consultar el archivo [LICENSE](
 
 ## Autor
 
-Este programa fue desarrollado por [Tu Nombre].
+Este programa fue desarrollado por A.García
 
-Esperamos que este programa te sea útil y te ayude a comprender mejor cómo funcionan los hilos en Java.
